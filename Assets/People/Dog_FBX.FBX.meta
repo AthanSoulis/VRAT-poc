@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: c97a0fb03db27ed499b31cb6a7149734
+timeCreated: 1504190035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: c_DOG
+    100002: CC_back
+    100004: CC_Cadera
+    100006: CC_Ear001__Left
+    100008: CC_Ear001_Right002
+    100010: CC_Ear002__Left
+    100012: CC_Ear002__right001
+    100014: CC_foot_Left
+    100016: CC_foot_Right
+    100018: CC_head
+    100020: CC_hombro_Leftwer
+    100022: CC_hombro_Right
+    100024: CC_IK_Left
+    100026: CC_IK_Ruight
+    100028: CC_leg_02_LEFT
+    100030: CC_leg_02_RIGHT
+    100032: CC_neck
+    100034: CC_Tail_001
+    100036: CC_Tail_002
+    100038: CC_Tail_003
+    100040: CC_Tail_004
+    100042: CC_Tail_005
+    100044: CC_Tail_006
+    100046: CC_Tail_007
+    100048: CC_zarpa_LEFT
+    100050: CC_zarpa_RIGHT
+    100052: cola_final_joint
+    100054: cola_final_joint 1
+    100056: //RootNode
+    100058: EXTRA
+    100060: gEXTRA
+    100062: IK _left
+    100064: IK _right
+    100066: IK Chain003
+    100068: IK Chain004
+    100070: joint1
+    100072: joint10
+    100074: joint11
+    100076: joint12
+    100078: joint13
+    100080: joint14
+    100082: joint15
+    100084: joint16
+    100086: joint17
+    100088: joint18
+    100090: joint19
+    100092: joint2
+    100094: joint20
+    100096: joint21
+    100098: joint22
+    100100: joint24
+    100102: joint25
+    100104: joint26
+    100106: joint27
+    100108: joint28
+    100110: joint29
+    100112: joint3
+    100114: joint30
+    100116: joint31
+    100118: joint32
+    100120: joint33
+    100122: joint34
+    100124: joint35
+    100126: joint36
+    100128: joint37
+    100130: joint38
+    100132: joint39
+    100134: joint4
+    100136: joint40
+    100138: joint41
+    100140: joint42
+    100142: joint43
+    100144: joint44
+    100146: joint46
+    100148: joint47
+    100150: joint48
+    100152: joint49
+    100154: joint5
+    100156: joint50
+    100158: joint51
+    100160: joint52
+    100162: joint53
+    100164: joint54
+    100166: joint55
+    100168: joint56
+    100170: joint57
+    100172: joint58
+    100174: joint59
+    100176: joint6
+    100178: joint60
+    100180: joint61
+    100182: joint62
+    100184: joint7
+    100186: joint8
+    100188: joint9
+    100190: Mesh
+    400000: c_DOG
+    400002: CC_back
+    400004: CC_Cadera
+    400006: CC_Ear001__Left
+    400008: CC_Ear001_Right002
+    400010: CC_Ear002__Left
+    400012: CC_Ear002__right001
+    400014: CC_foot_Left
+    400016: CC_foot_Right
+    400018: CC_head
+    400020: CC_hombro_Leftwer
+    400022: CC_hombro_Right
+    400024: CC_IK_Left
+    400026: CC_IK_Ruight
+    400028: CC_leg_02_LEFT
+    400030: CC_leg_02_RIGHT
+    400032: CC_neck
+    400034: CC_Tail_001
+    400036: CC_Tail_002
+    400038: CC_Tail_003
+    400040: CC_Tail_004
+    400042: CC_Tail_005
+    400044: CC_Tail_006
+    400046: CC_Tail_007
+    400048: CC_zarpa_LEFT
+    400050: CC_zarpa_RIGHT
+    400052: cola_final_joint
+    400054: cola_final_joint 1
+    400056: //RootNode
+    400058: EXTRA
+    400060: gEXTRA
+    400062: IK _left
+    400064: IK _right
+    400066: IK Chain003
+    400068: IK Chain004
+    400070: joint1
+    400072: joint10
+    400074: joint11
+    400076: joint12
+    400078: joint13
+    400080: joint14
+    400082: joint15
+    400084: joint16
+    400086: joint17
+    400088: joint18
+    400090: joint19
+    400092: joint2
+    400094: joint20
+    400096: joint21
+    400098: joint22
+    400100: joint24
+    400102: joint25
+    400104: joint26
+    400106: joint27
+    400108: joint28
+    400110: joint29
+    400112: joint3
+    400114: joint30
+    400116: joint31
+    400118: joint32
+    400120: joint33
+    400122: joint34
+    400124: joint35
+    400126: joint36
+    400128: joint37
+    400130: joint38
+    400132: joint39
+    400134: joint4
+    400136: joint40
+    400138: joint41
+    400140: joint42
+    400142: joint43
+    400144: joint44
+    400146: joint46
+    400148: joint47
+    400150: joint48
+    400152: joint49
+    400154: joint5
+    400156: joint50
+    400158: joint51
+    400160: joint52
+    400162: joint53
+    400164: joint54
+    400166: joint55
+    400168: joint56
+    400170: joint57
+    400172: joint58
+    400174: joint59
+    400176: joint6
+    400178: joint60
+    400180: joint61
+    400182: joint62
+    400184: joint7
+    400186: joint8
+    400188: joint9
+    400190: Mesh
+    4300000: Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

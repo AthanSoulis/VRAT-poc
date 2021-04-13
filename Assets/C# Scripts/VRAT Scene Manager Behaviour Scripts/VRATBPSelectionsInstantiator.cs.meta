@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 991cc2110927aa14b963c02118ea9149
+timeCreated: 1499446184
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GoOnPrefab: {fileID: 1439127894793932, guid: 1fb2589ab4a83384ca79da7ca5e71c9e,
+      type: 2}
+  - ProceedPrefab: {fileID: 1861907978690476, guid: 1053bb6e3d85b23409135ae650249330,
+      type: 2}
+  - MoreSelectionPrefab: {fileID: 1931942844759100, guid: b3117760f918b4740840f19ed6ba5343,
+      type: 2}
+  - ChoiceSelectionPrefab: {fileID: 1356028864316550, guid: 5ebf35e00280bb241a09a5c5782c59d4,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

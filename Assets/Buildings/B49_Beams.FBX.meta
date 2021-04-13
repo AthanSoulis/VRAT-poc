@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 46d815f146839494f8bf4533adcf5c50
+timeCreated: 1503497474
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B49_Plane_thatched
+    100004: Beam002
+    100006: Beam016
+    100008: Beam017
+    100010: Beam019
+    100012: Beam020
+    100014: Beam021
+    100016: Beam022
+    100018: Beam023
+    100020: Beam024
+    100022: Beam025
+    100024: Beam026
+    100026: Beam027
+    100028: Beam028
+    100030: Beam029
+    100032: Beam030
+    100034: Beam031
+    100036: Beam032
+    100038: Beam033
+    100040: Beam034
+    100042: Beam035
+    100044: Beam036
+    100046: Beam037
+    100048: Beam038
+    100050: Beam039
+    100052: Beam040
+    100054: Beam041
+    100056: Beam042
+    100058: Beam043
+    400000: //RootNode
+    400002: B49_Plane_thatched
+    400004: Beam002
+    400006: Beam016
+    400008: Beam017
+    400010: Beam019
+    400012: Beam020
+    400014: Beam021
+    400016: Beam022
+    400018: Beam023
+    400020: Beam024
+    400022: Beam025
+    400024: Beam026
+    400026: Beam027
+    400028: Beam028
+    400030: Beam029
+    400032: Beam030
+    400034: Beam031
+    400036: Beam032
+    400038: Beam033
+    400040: Beam034
+    400042: Beam035
+    400044: Beam036
+    400046: Beam037
+    400048: Beam038
+    400050: Beam039
+    400052: Beam040
+    400054: Beam041
+    400056: Beam042
+    400058: Beam043
+    2300000: B49_Plane_thatched
+    2300002: Beam002
+    2300004: Beam016
+    2300006: Beam017
+    2300008: Beam019
+    2300010: Beam020
+    2300012: Beam021
+    2300014: Beam022
+    2300016: Beam023
+    2300018: Beam024
+    2300020: Beam025
+    2300022: Beam026
+    2300024: Beam027
+    2300026: Beam028
+    2300028: Beam029
+    2300030: Beam030
+    2300032: Beam031
+    2300034: Beam032
+    2300036: Beam033
+    2300038: Beam034
+    2300040: Beam035
+    2300042: Beam036
+    2300044: Beam037
+    2300046: Beam038
+    2300048: Beam039
+    2300050: Beam040
+    2300052: Beam041
+    2300054: Beam042
+    2300056: Beam043
+    3300000: B49_Plane_thatched
+    3300002: Beam002
+    3300004: Beam016
+    3300006: Beam017
+    3300008: Beam019
+    3300010: Beam020
+    3300012: Beam021
+    3300014: Beam022
+    3300016: Beam023
+    3300018: Beam024
+    3300020: Beam025
+    3300022: Beam026
+    3300024: Beam027
+    3300026: Beam028
+    3300028: Beam029
+    3300030: Beam030
+    3300032: Beam031
+    3300034: Beam032
+    3300036: Beam033
+    3300038: Beam034
+    3300040: Beam035
+    3300042: Beam036
+    3300044: Beam037
+    3300046: Beam038
+    3300048: Beam039
+    3300050: Beam040
+    3300052: Beam041
+    3300054: Beam042
+    3300056: Beam043
+    4300000: Beam002
+    4300002: Beam016
+    4300004: Beam017
+    4300006: Beam019
+    4300008: Beam020
+    4300010: Beam021
+    4300012: Beam022
+    4300014: Beam023
+    4300016: Beam024
+    4300018: Beam025
+    4300020: Beam026
+    4300022: Beam027
+    4300024: Beam028
+    4300026: Beam029
+    4300028: Beam030
+    4300030: Beam031
+    4300032: Beam032
+    4300034: Beam033
+    4300036: Beam034
+    4300038: Beam035
+    4300040: Beam036
+    4300042: Beam037
+    4300044: Beam038
+    4300046: Beam039
+    4300048: Beam040
+    4300050: Beam041
+    4300052: Beam042
+    4300054: Beam043
+    4300056: B49_Plane_thatched
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
