@@ -7,8 +7,8 @@ This experience set in the Neolithic settlement of Çatalhöyük is a proof of c
 When translating the 2D structured story to the 3D virtual environment the VRAT exposes certain options to the user via a UI. 
 The main objectives for this UI were :
 * [to be non-intrusive but accessible](https://youtu.be/pHOsO_mswgE)
-* [give the ability to the user to move around the environment](https://youtu.be/IOE4fbJWPi0)
-* [make a choice on the branching sections of the story](https://youtu.be/6goE-wvB3XY)
+* [to give the ability to the user to move around the environment](https://youtu.be/IOE4fbJWPi0)
+* [to let the user make a choice on the branching sections of the story](https://youtu.be/6goE-wvB3XY)
 
 You can download the [CatalVR.apk](https://github.com/AthanSoulis/VRAT-poc/blob/main/CatalVR.apk) in order to install the experience in your Android phone.
 Gyroscope and a fairly new mobile processor is required.
