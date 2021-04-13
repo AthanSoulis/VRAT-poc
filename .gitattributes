@@ -3,3 +3,5 @@ Library/PlayerDataCache/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
 Assets/Buildings/B49_Floor.fbm/Plaster_Platf100M.psd filter=lfs diff=lfs merge=lfs -text
 Assets/Miscellaneous[[:space:]]Props/Scenes_0305_voices_01.wav filter=lfs diff=lfs merge=lfs -text
 Assets/New[[:space:]]Terrain.asset filter=lfs diff=lfs merge=lfs -text
+CatalVR.apk filter=lfs diff=lfs merge=lfs -text
+VRAuthoringTool.unitypackage filter=lfs diff=lfs merge=lfs -text
